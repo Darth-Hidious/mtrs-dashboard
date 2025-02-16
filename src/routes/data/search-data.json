@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Dashboard Overview",
+      "description": "Main dashboard with key metrics and analytics",
+      "category": "dashboard",
+      "url": "/dashboard"
+    },
+    {
+      "id": 2,
+      "title": "User Management",
+      "description": "Manage system users and permissions",
+      "category": "users",
+      "url": "/crud/users"
+    },
+    {
+      "id": 3,
+      "title": "Product Catalog",
+      "description": "Browse and manage product listings",
+      "category": "products",
+      "url": "/crud/products"
+    },
+    {
+      "id": 4,
+      "title": "Settings",
+      "description": "System configuration and preferences",
+      "category": "settings",
+      "url": "/settings"
+    },
+    {
+      "id": 5,
+      "title": "Authentication",
+      "description": "User authentication and security settings",
+      "category": "security",
+      "url": "/authentication/sign-in"
+    },
+    {
+      "id": 6,
+      "title": "Activity Logs",
+      "description": "View system and user activity history",
+      "category": "monitoring",
+      "url": "/dashboard#activity"
+    }
+  ]
+}
